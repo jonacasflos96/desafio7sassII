@@ -1,0 +1,24 @@
+
+.main{
+    h1{
+        font-size:$titulos;
+        color: $colorone;
+        margin-top: 0px;
+    }
+    img{
+        width: 100%;
+    }
+    .tarjetita{
+        background-color:$colorTarjeta;
+    }
+    h5{
+        color:$colortwo;
+    }
+}
+
+.main2{
+    @extend .main;
+    .tarjetita{
+        background-color:$colorTarjeta2;
+    }
+}

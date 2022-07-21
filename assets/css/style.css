@@ -1,0 +1,43 @@
+.main h1, .main2 h1 {
+  font-size: 45px;
+  color: #3d3b3b;
+  margin-top: 0px; }
+
+.main img, .main2 img {
+  width: 100%; }
+
+.main .tarjetita, .main2 .tarjetita {
+  background-color: #f2f0f8; }
+
+.main h5, .main2 h5 {
+  color: #383880; }
+
+.main2 .tarjetita {
+  background-color: #e0dee4; }
+
+.navbar {
+  height: 100px; }
+  .navbar li {
+    padding: 8px; }
+  .navbar a {
+    color: #2c2e2e;
+    font-size: 16px; }
+  .navbar .card {
+    background-color: #edf3ed; }
+
+.footer {
+  background-color: #302e2e;
+  height: 150px;
+  display: grid;
+  align-items: center;
+  place-content: center; }
+  .footer p {
+    color: azure;
+    font-size: 16px; }
+
+.btn {
+  background-color: #3066fa;
+  color: #fcfafa;
+  padding: 7px 10px;
+  border: 0;
+  align-items: center; }

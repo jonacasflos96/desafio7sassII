@@ -1,0 +1,13 @@
+
+.footer{
+    background-color: map-get($footer ,background );
+    height: map-get($footer, height);
+    display: map-get($footer, display);
+    align-items: map-get($footer, align-items);
+    place-content: map-get($footer, place-content);
+
+    p {
+        color: map-get($footer, color);
+        font-size: map-get($footer, font-size);
+        }
+}

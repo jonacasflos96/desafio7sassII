@@ -1,0 +1,19 @@
+$colorTarjeta: rgb(242, 240, 248);
+$colorTarjeta2: rgb(224, 222, 228);
+$titulos: 45px;
+$colorone: rgb(61, 59, 59);
+$colortwo: rgb(56, 56, 128);
+$colorthree: rgb(48, 102, 250);
+$colorfooter: rgb(48, 46, 46);
+$footer:(
+    background: $colorfooter,
+    height:150px,
+    display: grid,
+    align-items: center,
+    place-content: center,
+    color:azure,
+    font-size: 16px,
+);
+
+
+
